@@ -7,7 +7,7 @@ import java.io.PrintStream;
  */
 public class Hello {
 
-    static final String HELLO = "Hello iam Hemanth!";
+    static final String HELLO = "Hello iam Hemanth! Good morning";
 
     public static final int MAXIMUM_AMOUNT_OF_TIMES = 20;
 
